@@ -1,5 +1,5 @@
 # ipython_notebook_any_directory_windows
-## Launching Dato(https://dato.com/)'s ipython notebook in any folder
+## Launching Dato's (https://dato.com/) ipython notebook in any folder
 I wrote a batch script for launching ipython notebook in a directory a user want. I hope this helps for other users.
 (This only works for Windows)
 
